@@ -32,6 +32,9 @@ iceLance_chain_damage = iceLance_basic_damage * 1.15
 iceLance_basic_damage_fingersOfFrost_expectation = iceLance_basic_damage * 3 * freeze_critical_expectation
 iceLance_chain_damage_fingersOfFrost_expectation = iceLance_chain_damage * 3 * freeze_critical_expectation
 
+#冰川碎片橙装
+iceLance_chain_damage_fingersOfFrost_expectation = iceLance_chain_damage_fingersOfFrost_expectation + 392 / 5
+
 #冰风暴设定，基本伤害，冰智下基础伤害，冰智下期望伤害
 iceStorm_basic_damage = 1220
 iceStorm_damage_brainFreeze = iceStorm_basic_damage * 1.5

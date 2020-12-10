@@ -7,8 +7,8 @@ critical_expectation = min(critical_expectation, 2)
 freeze_critical_expectation = min(1 + 1.5 * critical + 0.5, 2)
 freezeBolt_spellTime = 2
 gcd = 1.5
-fingersOfFrost_probability = 0.35
-brainFreeze_probability = 0.5
+fingersOfFrost_probability = 0.18
+brainFreeze_probability = 0.36
 print(freeze_critical_expectation)
 
 #寒冰箭设定，基本伤害，期望伤害，冻结下期望伤害
